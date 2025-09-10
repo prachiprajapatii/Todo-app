@@ -1,32 +1,45 @@
-✅ Todo App
+📝 Todo App
 
-A simple, elegant, and responsive Todo List application to manage daily tasks. Built with HTML, CSS, and JavaScript and deployed on Vercel.
+A simple and responsive Todo List application built with HTML, CSS, and JavaScript.
+It helps you add and manage daily tasks in a clean interface.
 
-🔗 Live Demo: Click here to try it out
+🚀 Live Demo
 
-✨ Features
+🔗 https://todo-app-prachi.vercel.app/
 
-➕ Add new todos instantly
+📸 Preview
+<img width="1909" height="919" alt="screenshot-" src="https://github.com/user-attachments/assets/5f138de7-2018-4f05-968d-e449c05b60ad" />
 
-📋 View your tasks in a clean interface
-
-📱 Fully responsive design
-
-⚡ Lightweight and fast
-
-(Future Enhancements)
-
-✅ Mark tasks as completed
-
-🗑️ Delete todos
-
-✏️ Edit existing todos
-
-💾 Save tasks in local storage
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript
+HTML
 
-Deployment: Vercel
+CSS
 
+JavaScript
+
+⚡ Features
+
+➕ Add new todos instantly
+
+📋 View your tasks in a simple list
+
+📱 Responsive design
+
+⚡ Fast and lightweight
+
+📂 How to Run Locally
+
+Clone the repository
+
+git clone https://github.com/your-username/todo-app.git
+
+
+Open the project folder
+
+cd todo-app
+
+
+Run the app
+Open index.html in your browser 🎉
